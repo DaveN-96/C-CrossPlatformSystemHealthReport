@@ -4,10 +4,10 @@ Basic system health info reporting tool with cross-platform functionality.
 
 ## Reports
 Lists:
-OS name
-CPU core count
-Memory usage / total
-Disk space usage / total
+OS name,
+CPU core count,
+Memory usage / total,
+Disk space usage / total,
 System uptime
 
 ## Build
